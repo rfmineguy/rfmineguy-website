@@ -1,0 +1,84 @@
+.btn {
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 400;
+    border-style: none;
+  }
+  .fs-14 {
+    font-size: 1.5rem;
+  }
+  
+  .bg-white {
+    background-color: #fff;
+    border-style: none;
+  }
+  .text-white {
+    color: #fff;
+  }
+  .text-black {
+    color: #000000;
+  }
+  
+  .ba {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+  }
+  .ba-red {
+    border-color: #ff0000;
+    color: #ff0000;
+  }
+  .ba-green {
+    border-color: #009933;
+    color: #009933;
+  }
+  .ba-gray {
+    border-color: #808080;
+    color: #808080;
+  }
+  .ba-blue {
+    border-color: #0000ff;
+    color: #0000ff;
+  }
+  .ba-yellow {
+    border-color: #ffff00;
+    color: #ffff00;
+  }
+  .ba-indigo {
+    border-color: #4b0082;
+    color: #4b0082;
+  }
+  .ba-black {
+    border-color: #000000;
+    color: #000000;
+  }
+  .ba-red:hover {
+    background-color: #ff0000;
+    color: #fff;
+  }
+  .ba-green:hover {
+    background-color: #009933;
+    color: #fff;
+  }
+  .ba-gray:hover {
+    background-color: #808080;
+    color: #fff;
+  }
+  .ba-blue:hover {
+    background-color: #0000ff;
+    color: #fff;
+  }
+  .ba-yellow:hover {
+    background-color: #ffff00;
+    color: #000000;
+  }
+  .ba-indigo:hover {
+    background-color: #4b0082;
+    color: #fff;
+  }
+  .ba-black:hover {
+    background-color: #000000;
+    color: #fff;
+  }
